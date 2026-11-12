@@ -4,6 +4,9 @@ Gemfile.lock
 *.gem
 .DS_Store
 Prof_Andy- Data_Interpretation_May-June_2026.zip
+fun/Rc planes-20261112T093510Z-1-001.zip
+fun/Rc planes/*.mp4
+.venv/
 .jekyll-cache
 git-update.sh
 .vscode/

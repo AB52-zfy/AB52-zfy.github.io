@@ -8,7 +8,7 @@ format:
 
 ## Course Overview
 
-This course focused on numerically solving differential equations, with particular emphasis on optimization problems. It was offered by Professor Andy Ruina during my second year (January-May 2026).
+This course focused on numerically solving differential equations, with particular emphasis on optimization problems. It was offered by [Professor Andy Ruina](http://ruina.tam.cornell.edu/) during my second year (January-May 2026).
 
 ## Homework Portfolio
 

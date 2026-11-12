@@ -21,7 +21,7 @@ I am a third-year Robotics and Autonomous Systems major at Plaksha University in
 :::
 
 ::: {.profile-links}
-[CV](Apurv_CV.pdf) · LinkedIn (link coming soon) · [GitHub](https://github.com/AB52-zfy)
+[CV](Apurv_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/apurv-bhushan-244b76317/) · [GitHub](https://github.com/AB52-zfy)
 :::
 :::
 
@@ -31,8 +31,8 @@ I am a third-year Robotics and Autonomous Systems major at Plaksha University in
 - **CANSAT 2026-27**<br>
   As part of the Mechanical Subsystems team in Team Kalki, we were tasked with designing a 2P PocketQube Satellite and the container it will deploy from.<br>
   Click [here](/experience/cansat-2026-27/) for more info.
-- **Intern Under Professor Andy Ruina**<br>
-  Got the opportunity to work under Professor Andy Ruina on Airfoil Aerodynamics and CFD simulations.<br>
+- **Intern Under [Professor Andy Ruina](http://ruina.tam.cornell.edu/)**<br>
+  Got the opportunity to work under [Professor Andy Ruina](http://ruina.tam.cornell.edu/) on Airfoil Aerodynamics and CFD simulations.<br>
   Click [here](/experience/robotics-lab-internship/) for more info.
 - **Ashoka Makeathon 2026**<br>
   As part of a 4-member team, we participated and placed 3rd in the Hardware Track in the RedBrickHacks Hackathon hosted by Ashoka University 2026.<br>
@@ -57,10 +57,10 @@ I am a third-year Robotics and Autonomous Systems major at Plaksha University in
 
 ::: {.topic-list}
 - **Dynamics and Simulation**<br>
-  Master's level course on solving DEs of dynamical systems using various methods. Offered by Professor Andy Ruina during my 3rd year (August 2026- December 2026).<br>
+  Master's level course on solving DEs of dynamical systems using various methods. Offered by [Professor Andy Ruina](http://ruina.tam.cornell.edu/) during my 3rd year (August 2026- December 2026).<br>
   Click [here](/coursework/dynamics-and-simulation/) for more info.
 - **Robot Motion Simulation and Optimization**<br>
-  Course on solving DEs numerically, but more focused on optimization problems. Offered by Professor Andy Ruina during my 2nd year (January 2026- May 2026).<br>
+  Course on solving DEs numerically, but more focused on optimization problems. Offered by [Professor Andy Ruina](http://ruina.tam.cornell.edu/) during my 2nd year (January 2026- May 2026).<br>
   Click [here](/coursework/robot-motion-simulation-and-optimization/) for more info.
 :::
 

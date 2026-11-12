@@ -8,7 +8,7 @@ format:
 
 ## Course Overview
 
-Master's-level course on solving differential equations for dynamical systems using a range of methods. Offered by Professor Andy Ruina during my third year (August-December 2026).
+Master's-level course on solving differential equations for dynamical systems using a range of methods. Offered by [Professor Andy Ruina](http://ruina.tam.cornell.edu/) during my third year (August-December 2026).
 
 ## Homework Log
 

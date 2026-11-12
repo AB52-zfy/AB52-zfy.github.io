@@ -19,6 +19,9 @@ project:
     - imagesforashokamakeathon/**
     - imagesformakerspace/**
     - videosandimagesforilgcproject/**
+    - "fun/Rc planes/all_3_planes.jpg"
+    - "fun/Rc planes/trainer_crash.jpg"
+    - "fun/Rc planes/web/**"
     - projects/ilgc-cyclorotor-autogyro/Document.pdf
     - projects/optimization-course-project/AdaGamma_Project_Log.pdf
     - coursework/dynamics-and-simulation/main.pdf

@@ -7,10 +7,77 @@ description: "Side projects, RC aircraft, and small experiments."
 
 Not everything I build belongs to a course or a formal project. This page is for the things I make and try out of curiosity.
 
-### RC Aircraft
+## RC Planes
 
-I enjoy building RC planes and exploring the ideas that come with making things fly. More builds, photos, and flight notes will go here.
+### Gallery
 
-### Small Experiments
+My friend Suyash Prakash and I assembled three RC planes as a hobby: an F-22 Raptor, a trainer aircraft, and a 3D aerobatic plane.
+
+<figure>
+<img src="Rc%20planes/all_3_planes.jpg" alt="The F-22 Raptor, trainer, and 3D aerobatic RC planes" class="img-fluid">
+<figcaption>Our three assembled RC aircraft.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_crash1_1st.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_flying_2nd.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_firstcatch_3rd.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_crash2_4th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_flying_5th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_catch_6th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_Crash_7th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-crash">
+<img src="Rc%20planes/trainer_crash.jpg" alt="The trainer RC plane after its crash" class="img-fluid">
+<figcaption>Trainer aircraft after the seventh-flight crash.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_flying_8th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_flying_9th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_flying_10th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+<figure class="rc-gallery-item">
+<video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_catch_another_11th.mp4" type="video/mp4"></video>
+<figcaption>Caption: Add caption here.</figcaption>
+</figure>
+
+## Small Experiments
 
 Small tests, workshop experiments, and other interesting diversions will find a home here as they happen.

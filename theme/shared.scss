@@ -229,7 +229,35 @@ main {
   }
 }
 
+main figure.rc-gallery-item,
+main figure.rc-gallery-crash {
+  display: inline-block;
+  vertical-align: top;
+  width: 48%;
+  margin: 0.75rem 1% 0.75rem 0;
+}
+
+main figure.rc-gallery-item video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #111;
+  object-fit: contain;
+}
+
+main figure.rc-gallery-item figcaption,
+main figure.rc-gallery-crash figcaption {
+  min-height: 1.5em;
+  margin-top: 0.4rem;
+}
+
 @media (max-width: 480px) {
+  main figure.rc-gallery-item,
+  main figure.rc-gallery-crash {
+    width: 100%;
+    margin-right: 0;
+  }
+
   .quarto-color-scheme-toggle-container {
     inset: 0.5rem 0.5rem auto auto;
     gap: 0.2rem;
