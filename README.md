@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apurv Bhushan's Portfolio
 
 Personal portfolio built with [Quarto](https://quarto.org). The site is published
@@ -31,3 +32,6 @@ Edit the relevant `.qmd` file to update page content. Replace a PDF at its
 existing path to update an embedded document. When adding new assets, reference
 them from the page and add them to the `resources` list in `_quarto.yml` when
 needed.
+=======
+# AB52-zfy.github.io
+>>>>>>> bab0866e28b07d7072ff22f9c63c024e693dad44
