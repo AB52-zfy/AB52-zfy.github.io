@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+// Dark palette.
+// $s-image-mat matters more here than in light mode: most project images are
+// plots, CAD renders and Gazebo screenshots with white backgrounds, which glare
+// against a dark card unless they sit on a light mat with a soft border.
+
+$body-bg:        #1c1d21;
+$body-color:     #d8d9dc;
+$link-color:     #7fb2e5;
+$link-hover-color: #a5cbf0;
+
+$s-muted:        #9a9ca3;
+$s-border:       #33353b;
+$s-card-bg:      #232429;
+$s-card-border:  #34363d;
+$s-card-shadow:  rgba(0, 0, 0, 0.35);
+$s-card-shadow-hover: rgba(0, 0, 0, 0.5);
+$s-badge-bg:     #2e3037;
+$s-badge-color:  #b6b8bf;
+
+$s-image-mat:    #eceae5;
+$s-code-bg:      #26272c;

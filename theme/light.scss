@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+// Light palette.
+// Body text is deliberately darker than the old theme's #595959, which read
+// washed out at Crimson Pro's light stem weights.
+
+$body-bg:        #fdfdfc;
+$body-color:     #2b2b2b;
+$link-color:     #043361;
+$link-hover-color: #0a5aa8;
+
+$s-muted:        #6b6b6b;
+$s-border:       #e2e0da;
+$s-card-bg:      #ffffff;
+$s-card-border:  #e2e0da;
+$s-card-shadow:  rgba(28, 28, 28, 0.06);
+$s-card-shadow-hover: rgba(28, 28, 28, 0.13);
+$s-badge-bg:     #f0eee8;
+$s-badge-color:  #55524b;
+
+$s-image-mat:    #f7f6f3;
+$s-code-bg:      #f5f4f1;

@@ -1,0 +1,5 @@
+# Applies to every experience detail page.
+# TOC settings are global (see _quarto.yml).
+format:
+  html:
+    include-before-body: ../_partials/back-link.html

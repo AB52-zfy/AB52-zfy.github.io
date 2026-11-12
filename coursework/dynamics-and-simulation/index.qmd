@@ -1,0 +1,24 @@
+---
+title: "Dynamics and Simulation"
+description: "Master's level course on solving differential equations of dynamical systems using various methods."
+format:
+  html:
+    include-before-body: ../../_partials/back-link.html
+---
+
+## Course Overview
+
+Master's-level course on solving differential equations for dynamical systems using a range of methods. Offered by Professor Andy Ruina during my third year (August-December 2026).
+
+## Homework Log
+
+I will update this document as I complete homework throughout the course.
+
+<iframe src="main.pdf" title="Dynamics and Simulation homework log" width="100%" height="950" style="border: 1px solid #c8cdd2;">
+</iframe>
+
+[Open or download the current homework PDF](main.pdf).
+
+## Homework Questions and Solutions
+
+The GitHub repository for the original homework questions and my solutions will be linked here once it is ready.

@@ -1,0 +1,23 @@
+---
+title: "Optimization Course Project"
+description: "Developing and evaluating AdaGamma, an Adam extension that uses higher-order gradient moments."
+---
+
+## Project Overview
+
+For my third-semester Optimization course, my team developed AdaGamma, an extension of Adam that uses gradient skewness and kurtosis to modulate parameter updates. We tested it against established optimizers on quadratic functions, the Rosenbrock function, and MNIST digit classification.
+
+## Project Log
+
+Scroll through the full project log below for the algorithm, implementation, experiments, results, and limitations.
+
+<iframe src="AdaGamma_Project_Log.pdf" title="AdaGamma Optimization Course project log" width="100%" height="950" style="border: 1px solid #c8cdd2;">
+</iframe>
+
+[Open or download the full project log](AdaGamma_Project_Log.pdf).
+
+## What I Learned
+
+- I developed a deeper understanding of how the first four gradient moments relate to an optimizer's update, and how skewness and kurtosis can be used to adjust it.
+- I worked on the mathematical design, translating the update rule into an implementation, and tuning hyperparameters across benchmark problems.
+- I learned that an optimizer's performance depends on the task: AdaGamma converged faster on the tested quadratic and Rosenbrock functions, but on MNIST it achieved accuracy similar to Adam while taking longer to train. This reinforced the importance of evaluating optimization methods across different kinds of problems.

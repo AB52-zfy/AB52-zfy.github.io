@@ -1,0 +1,68 @@
+---
+title: "Hello! My name is Apurv Bhushan"
+pagetitle: "Apurv Bhushan"
+# This page has no math, so avoid loading MathJax and its polyfill.
+format:
+  html:
+    html-math-method: plain
+---
+
+::: {.profile-hero}
+<img src="assets/img/apurv-profile.jpeg" alt="Profile picture of Apurv Bhushan" class="profile-photo">
+
+::: {.profile-welcome}
+And welcome to my website. This is a record of the work I have devoted many hours and careful thought to, from projects to coursework.
+:::
+
+### A little bit about myself
+
+::: {.profile-bio}
+I am a third-year Robotics and Autonomous Systems major at Plaksha University in Mohali, India. I am especially interested in the mechanical side of robotics and flight, particularly autogyros, which are the focus of my [passion project](/projects/ilgc-cyclorotor-autogyro/). Through my coursework, I have also developed an appreciation for simulating [dynamical systems](/coursework/dynamics-and-simulation/) by numerically solving differential equations. I am keen to pursue this interest as I continue learning about robotics and flight. Outside academics, I play cricket for the university team and enjoy story-driven video games.
+:::
+
+::: {.profile-links}
+[CV](Apurv_CV.pdf) · LinkedIn (link coming soon) · [GitHub](https://github.com/AB52-zfy)
+:::
+:::
+
+## Experience
+
+::: {.topic-list}
+- **CANSAT 2026-27**<br>
+  As part of the Mechanical Subsystems team in Team Kalki, we were tasked with designing a 2P PocketQube Satellite and the container it will deploy from.<br>
+  Click [here](/experience/cansat-2026-27/) for more info.
+- **Intern Under Professor Andy Ruina**<br>
+  Got the opportunity to work under Professor Andy Ruina on Airfoil Aerodynamics and CFD simulations.<br>
+  Click [here](/experience/robotics-lab-internship/) for more info.
+- **Ashoka Makeathon 2026**<br>
+  As part of a 4-member team, we participated and placed 3rd in the Hardware Track in the RedBrickHacks Hackathon hosted by Ashoka University 2026.<br>
+  Click [here](/experience/ashoka-makeathon-2026/) for more info.
+- **Plaksha Makerspace Internship**<br>
+  Got the opportunity to work in my University's Makerspace during my first-year summer. Worked on building a variable voltage power supply and a motorized cyclorotor.<br>
+  Click [here](/experience/makerspace-internship/) for more info.
+:::
+
+## Projects
+
+::: {.topic-list}
+- **ILGC Project: Cyclorotor Autogyro**<br>
+  As part of a multi-semester project-based learning course, ILGC (Innovation Lab & Grand Challenge), I am working on my passion project, the Cyclorotor Autogyro. The project explores using a fixed-pitch cyclorotor as the main lift-generating rotor on an autogyro aircraft.<br>
+  Click [here](/projects/ilgc-cyclorotor-autogyro/) for more info.
+- **Optimization Course Project**<br>
+  As part of my 3rd semester Optimization course, my team was tasked with building an optimizer and testing it against other existing optimizers.<br>
+  Click [here](/projects/optimization-course-project/) for more info.
+:::
+
+## Coursework
+
+::: {.topic-list}
+- **Dynamics and Simulation**<br>
+  Master's level course on solving DEs of dynamical systems using various methods. Offered by Professor Andy Ruina during my 3rd year (August 2026- December 2026).<br>
+  Click [here](/coursework/dynamics-and-simulation/) for more info.
+- **Robot Motion Simulation and Optimization**<br>
+  Course on solving DEs numerically, but more focused on optimization problems. Offered by Professor Andy Ruina during my 2nd year (January 2026- May 2026).<br>
+  Click [here](/coursework/robot-motion-simulation-and-optimization/) for more info.
+:::
+
+## Some Stuff on the Side: Having Fun!
+Click [here](/fun/) to see some fun stuff.

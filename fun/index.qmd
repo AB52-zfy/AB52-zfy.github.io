@@ -1,0 +1,16 @@
+---
+title: "Having Fun!"
+description: "Side projects, RC aircraft, and small experiments."
+---
+
+## Side Quests
+
+Not everything I build belongs to a course or a formal project. This page is for the things I make and try out of curiosity.
+
+### RC Aircraft
+
+I enjoy building RC planes and exploring the ideas that come with making things fly. More builds, photos, and flight notes will go here.
+
+### Small Experiments
+
+Small tests, workshop experiments, and other interesting diversions will find a home here as they happen.

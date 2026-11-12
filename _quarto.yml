@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - experience/cansat-2026-27/index.qmd
+    - experience/robotics-lab-internship/index.qmd
+    - experience/ashoka-makeathon-2026/index.qmd
+    - experience/makerspace-internship/index.qmd
+    - projects/ilgc-cyclorotor-autogyro/index.qmd
+    - projects/optimization-course-project/index.qmd
+    - coursework/dynamics-and-simulation/index.qmd
+    - coursework/robot-motion-simulation-and-optimization/index.qmd
+    - fun/index.qmd
+  resources:
+    - Apurv_CV.pdf
+    - assets/files/sheldahl-airfoil-data/Airfoil_Data_Updated/**
+    - digi_process/**
+    - imagesforashokamakeathon/**
+    - imagesformakerspace/**
+    - videosandimagesforilgcproject/**
+    - projects/ilgc-cyclorotor-autogyro/Document.pdf
+    - projects/optimization-course-project/AdaGamma_Project_Log.pdf
+    - coursework/dynamics-and-simulation/main.pdf
+    - coursework/robot-motion-simulation-and-optimization/Apurv_EM_Portfolio.pdf
+
+website:
+  title: "Apurv Bhushan"
+  description: "Portfolio of Apurv Bhushan, featuring experience, projects, and coursework."
+  site-url: "https://ab52-zfy.github.io/"
+  open-graph: true
+  # No navbar or sidebar: the site is a single page.
+  # Quarto floats the light/dark toggle top-right when no navbar hosts it.
+  page-navigation: false
+  back-to-top-navigation: false
+  # No navbar means no search box to type into, so the search bundle
+  # (fuse + autocomplete, ~160 KB) would be dead weight.
+  search: false
+
+format:
+  html:
+    theme:
+      light: [default, theme/light.scss, theme/shared.scss]
+      dark: [default, theme/dark.scss, theme/shared.scss]
+    # Off by default in Quarto: without it the site always opens in the light
+    # theme and only the toggle switches it, ignoring the OS setting.
+    respect-user-color-scheme: true
+    toc: false
+    toc-location: right
+    toc-title: "On this page"
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: false
+    link-external-icon: false
+    fig-align: left
+    html-math-method: mathjax
+    grid:
+      body-width: 900px
+
+execute:
+  freeze: false
+  echo: false

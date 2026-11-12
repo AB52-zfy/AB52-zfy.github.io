@@ -1,0 +1,50 @@
+---
+title: "Ashoka Makeathon 2026"
+description: "Makerspace on Wheels: a mobile, low-cost hands-on workshop for government-school students."
+---
+
+## RedBrickHacks Hardware Track
+
+At the 2026 RedBrickHacks Hackathon hosted by Ashoka University, my four-person team competed in the Hardware Track and placed third.
+
+## Makerspace on Wheels
+
+Inspired by the idea of Science on Wheels, Makerspace on Wheels brings hands-on making to government-school students. Our concept is a mobile workshop stocked with a worktable, handheld tools, and low-cost adapters that let common tools perform tasks that would otherwise require expensive, dedicated equipment.
+
+The van would travel to schools across the country, giving students the chance to learn by building, experimenting, and using practical tools.
+
+## Adapter Concepts
+
+::: {.columns}
+::: {.column}
+<figure>
+<img src="../../imagesforashokamakeathon/Hand_drill_to_lathe.png" alt="Hand drill adapted for use as a small lathe">
+<figcaption>Hand-drill-to-lathe adapter concept.</figcaption>
+</figure>
+:::
+
+::: {.column}
+<figure>
+<img src="../../imagesforashokamakeathon/jigsaw_to_scrollsaw.png" alt="Jigsaw adapted for use as a scroll saw">
+<figcaption>Jigsaw-to-scroll-saw adapter concept.</figcaption>
+</figure>
+:::
+:::
+
+## Workshop Bench
+
+<figure>
+<img src="../../imagesforashokamakeathon/thebench.png" alt="Workshop bench concept for Makerspace on Wheels">
+<figcaption>Worktable and workshop setup concept.</figcaption>
+</figure>
+
+## Van Interior
+
+<figure>
+<img src="../../imagesforashokamakeathon/Van_Interior.png" alt="Proposed interior layout for the Makerspace on Wheels van">
+<figcaption>Proposed interior layout for the mobile makerspace.</figcaption>
+</figure>
+
+## Project Repository
+
+[View the Ashoka Makeathon project on GitHub](https://github.com/AB52-zfy/Ashoka-Makeathon-).
