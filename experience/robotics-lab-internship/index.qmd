@@ -43,7 +43,7 @@ I then extracted each curve using manual point selection or color-based automati
 
 After completing the airfoil-data work, I moved on to CFD simulations of a flat plate for my [Cyclorotor Autogyro project](../../projects/ilgc-cyclorotor-autogyro/). The project explores whether a cyclorotor could provide lift for an autogyro aircraft, with a physical prototype as the longer-term goal.
 
-I would also like to credit Professor Shashikant for his help with the CFD simulations. He is also a mentor for my passion project.
+I would also like to credit Professor Shashikant Pawar for his help with the CFD simulations. He is also a mentor for my passion project.
 
 The project log notes that flat plates can be a more suitable starting point than symmetrical airfoils at low Reynolds numbers. I began with flat-plate simulations to study the airflow and build a foundation for the project's later design and physical experiments.
 
