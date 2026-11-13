@@ -1,0 +1,100 @@
+clear all;
+
+files = {
+    'Re_360k_0015.csv', 'Re = 0.36\times10^6', 'o', [1 0 0];
+    'Re_500k_0015.csv', 'Re = 0.50\times10^6', 's', [1 0.5 0];
+    'Re_680k_0015.csv', 'Re = 0.68\times10^6', '^', [0.5 0 0.5]
+    };
+
+%% Save figure setup
+figDir = fullfile(fileparts(mfilename('fullpath')), 'figures');
+if ~exist(figDir, 'dir'), mkdir(figDir); end
+
+%% Plotting Individually
+for i = 1:size(files, 1)
+    data   = readmatrix(files{i, 1});
+    label  = files{i, 2};
+    marker = files{i, 3};
+    color  = files{i, 4};
+    alpha  = data(:, 1);
+    lift   = data(:, 2);
+
+    figure;
+    set(gcf, 'Color', 'w');
+    plot(alpha, lift, ...
+        'Marker',          marker, ...
+        'MarkerFaceColor', 'none', ...
+        'MarkerEdgeColor', color, ...
+        'Color',           color, ...
+        'LineWidth',       1.2, ...
+        'MarkerSize',      10, ...
+        'DisplayName',     label);
+
+    xlabel('Angle of Attack, \alpha (deg)', 'FontSize', 15, 'Color', 'k');
+    ylabel('Coefficient of Lift, c_l',      'FontSize', 15, 'Color', 'k');
+    title(files{i, 2}, 'NACA 0015',         'FontSize', 16, 'Color', 'k');
+
+    xlim([0 180]);    xticks(0:10:180);
+    ylim([-1.2 1.2]); yticks(-1.2:0.2:1.2);
+
+    yline(0, 'k-', 'HandleVisibility', 'off');
+    grid on;
+
+    set(gca, 'Color',     'w')
+    set(gca, 'GridColor', 'k')
+    set(gca, 'GridAlpha', 1)
+    set(gca, 'Box',       'on')
+    set(gca, 'XColor',    'k')
+    set(gca, 'YColor',    'k')
+
+    % Save figure (overwrites existing file)
+    figName = regexprep(files{i,1}, '\.csv$', '_lift');
+    print(gcf, fullfile(figDir, figName), '-dsvg');
+end
+
+%% Plotting Altogether
+figure;
+set(gcf, 'Color', 'w');
+hold on;
+
+for i = 1:size(files, 1)
+    data   = readmatrix(files{i, 1});
+    label  = files{i, 2};
+    marker = files{i, 3};
+    color  = files{i, 4};
+    alpha  = data(:, 1);
+    lift   = data(:, 2);
+
+    plot(alpha, lift, ...
+        'Marker',          marker, ...
+        'MarkerFaceColor', 'none', ...
+        'MarkerEdgeColor', color, ...
+        'Color',           color, ...
+        'LineWidth',       1.2, ...
+        'MarkerSize',      10, ...
+        'DisplayName',     label);
+end
+
+hold off;
+
+xlabel('Angle of Attack, \alpha (deg)', 'FontSize', 15, 'Color', 'k');
+ylabel('Coefficient of Lift, c_l',      'FontSize', 15, 'Color', 'k');
+title('NACA-0015 Airfoil Section',       'FontSize', 16, 'Color', 'k');
+
+xlim([0 180]);    xticks(0:10:180);
+ylim([-1.2 1.2]); yticks(-1.2:0.2:1.2);
+
+yline(0, 'k-', 'HandleVisibility', 'off');
+grid on;
+
+set(gca, 'Color',     'w')
+set(gca, 'GridColor', 'k')
+set(gca, 'GridAlpha', 1)
+set(gca, 'Box',       'on')
+set(gca, 'XColor',    'k')
+set(gca, 'YColor',    'k')
+legend('show', 'Location', 'northeast', 'FontSize', 12, ...
+    'TextColor', 'k', 'Color', 'w', 'EdgeColor', 'k');
+
+% Save combined figure (overwrites existing file)
+print(gcf, fullfile(figDir, 'Lift_vs_alpha_0015_combined'), '-dsvg');

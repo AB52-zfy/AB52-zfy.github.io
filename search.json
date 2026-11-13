@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "fun/index.html",
+    "href": "fun/index.html",
+    "title": "Having Fun!",
+    "section": "",
+    "text": "My friend Suyash Prakash (A phenomenal pilot and frankly the only person I trust behind an RC) and I built three RC planes as a hobby: an F-22 Raptor which I called the “Barracuda”, a trainer aircraft which was named “Little Wing”, and a 3D aerobatic plane which Suyash didn’t name :(. Check out his stuff-&gt;\n\n\n\nOur three assembled RC aircraft.\n\n\n\n\n\n\n\nThe Barracuda’s head-on collision with the light pole.\n\n\n\n\n\n\n\nBarracuda in flight.\n\n\n\n\n\n\n\nMy Second favorite thing about RC planes, catching them!\n\n\n\n\n\n\n\nAnother head-on collision!\n\n\n\n\n\n\n\nFlying the F22\n\n\n\n\n\n\n\nAnother Catch!\n\n\n\n\n\n\n\nThis was the very first flight of little wing which crashed right into a tree!\n\n\n\n\n\nSmoooth landing :)\n\n\n\n\n\n\n\nLittle Wing in action.\n\n\n\n\n\n\n\nIn earlier videos, the trainer aircraft’s wings were bent, but upon flatenning them, it flew much better.\n\n\n\n\n\n\n\nSome more flying.\n\n\n\n\n\n\n\nThis was my favorite catch, I thought I would nearly cut my hand off cause it got real close to the prop."
+  },
+  {
+    "objectID": "fun/index.html#other-stuff--will-be-updated-when-other-stuff-happens",
+    "href": "fun/index.html#other-stuff--will-be-updated-when-other-stuff-happens",
+    "title": "Having Fun!",
+    "section": "Other Stuff- Will be updated when ‘other stuff’ happens :)",
+    "text": "Other Stuff- Will be updated when ‘other stuff’ happens :)"
+  },
+  {
+    "objectID": "coursework/dynamics-and-simulation/index.html",
+    "href": "coursework/dynamics-and-simulation/index.html",
+    "title": "Dynamics and Simulation",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "coursework/dynamics-and-simulation/index.html#course-overview",
+    "href": "coursework/dynamics-and-simulation/index.html#course-overview",
+    "title": "Dynamics and Simulation",
+    "section": "Course Overview",
+    "text": "Course Overview\nDynamics and Simulation is a Program Elective Course for the Robotics & Autonomous Systems Major on solving differential equations for dynamical systems using a range of methods. Offered by Professor Andy Ruina during my third year (August-December 2026)."
+  },
+  {
+    "objectID": "coursework/dynamics-and-simulation/index.html#homework-log",
+    "href": "coursework/dynamics-and-simulation/index.html#homework-log",
+    "title": "Dynamics and Simulation",
+    "section": "Homework Log",
+    "text": "Homework Log\nI will update this document as I complete homework throughout the course.\n\n\nOpen or download the current homework PDF."
+  },
+  {
+    "objectID": "coursework/dynamics-and-simulation/index.html#homework-questions-and-solutions",
+    "href": "coursework/dynamics-and-simulation/index.html#homework-questions-and-solutions",
+    "title": "Dynamics and Simulation",
+    "section": "Homework Questions and Solutions",
+    "text": "Homework Questions and Solutions\nThe GitHub repository for the original homework questions and my solutions will be linked here once it is ready."
+  },
+  {
+    "objectID": "projects/ilgc-cyclorotor-autogyro/index.html",
+    "href": "projects/ilgc-cyclorotor-autogyro/index.html",
+    "title": "ILGC Project: Cyclorotor Autogyro",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "projects/ilgc-cyclorotor-autogyro/index.html#project-overview-and-research-basis",
+    "href": "projects/ilgc-cyclorotor-autogyro/index.html#project-overview-and-research-basis",
+    "title": "ILGC Project: Cyclorotor Autogyro",
+    "section": "Project Overview and Research Basis",
+    "text": "Project Overview and Research Basis\nIn a motorized cyclorotor, blades rotate around a central axis while changing pitch cyclically; adjusting the pitch offset can redirect the rotor’s thrust whereas a fixed-pitch cyclorotor produces thrust in a single direction. The project explores using a fixed-pitch cyclorotor as the main lift-generating rotor on an autogyro aircraft, with the goal of developing a physical prototype and investigating the concept through design, simulation, and experiments.\nThe idea is motivated by the research paper Energetic Design of a New Autogyro Aircraft with Cyclorotors with Possibility of Energy Harvesting. It proposes an aircraft with two cylindrical cyclorotor wind turbines mounted on either side of the fuselage, and estimates aerodynamic and vehicle quantities mathematically. As described in my project log, the concept had not yet been demonstrated with a physical aircraft. My aim is to develop a physical cyclorotor-autogyro prototype and investigate the concept through design, simulation, and experiments."
+  },
+  {
+    "objectID": "projects/ilgc-cyclorotor-autogyro/index.html#project-log",
+    "href": "projects/ilgc-cyclorotor-autogyro/index.html#project-log",
+    "title": "ILGC Project: Cyclorotor Autogyro",
+    "section": "Project Log",
+    "text": "Project Log\nThe embedded project log is updated manually as the project develops. Scroll within the document below to read all 42 pages.\n\n\nOpen or download the full project log."
+  },
+  {
+    "objectID": "projects/ilgc-cyclorotor-autogyro/index.html#photos-and-videos",
+    "href": "projects/ilgc-cyclorotor-autogyro/index.html#photos-and-videos",
+    "title": "ILGC Project: Cyclorotor Autogyro",
+    "section": "Photos and Videos",
+    "text": "Photos and Videos\n\nTesting the First Rotary Kite: The “Rola-Rola” (also known online as the UFO)\n\nThe first physical experiment in this project was a rotary kite known as the Rola-Rola, or the UFO. I am fascinated by how it flies: two pieces of Depron foam are joined perpendicular to one another, with spars, strings, and threads supporting the structure. In flight, the rectangular horizontal plate rotates around an axis along its length, producing a surprisingly simple but intriguing flying mechanism.\n\nKite Components\n\n\n\n\n\nRotary kite assembly and its suspension threads.\n\n\n\n\n\n\nClose-up of a spar and string connection.\n\n\n\n\n\n\nDetail of the kite’s thread and rotor linkage.\n\n\n\n\n\n\nSecond Flight with Takeoff\n\n\nYour browser does not support embedded video. You can open the video file instead."
+  },
+  {
+    "objectID": "experience/ashoka-makeathon-2026/index.html",
+    "href": "experience/ashoka-makeathon-2026/index.html",
+    "title": "Ashoka Makeathon 2026",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "experience/ashoka-makeathon-2026/index.html#makerspace-on-wheels",
+    "href": "experience/ashoka-makeathon-2026/index.html#makerspace-on-wheels",
+    "title": "Ashoka Makeathon 2026",
+    "section": "Makerspace on Wheels",
+    "text": "Makerspace on Wheels\nInspired by the idea of Science on Wheels, Makerspace on Wheels brings hands-on making to government-school students. Our concept is a mobile workshop stocked with a worktable, handheld tools, and low-cost adapters that let common tools perform tasks that would otherwise require expensive, dedicated equipment.\nThe van would travel to schools across the country, giving students the chance to learn by building, experimenting, and using practical tools."
+  },
+  {
+    "objectID": "experience/ashoka-makeathon-2026/index.html#adapter-concepts",
+    "href": "experience/ashoka-makeathon-2026/index.html#adapter-concepts",
+    "title": "Ashoka Makeathon 2026",
+    "section": "Adapter Concepts",
+    "text": "Adapter Concepts\n\n\n\n\n\nHand-drill-to-lathe adapter concept.\n\n\n\n\n\n\nJigsaw-to-scroll-saw adapter concept."
+  },
+  {
+    "objectID": "experience/ashoka-makeathon-2026/index.html#workshop-bench",
+    "href": "experience/ashoka-makeathon-2026/index.html#workshop-bench",
+    "title": "Ashoka Makeathon 2026",
+    "section": "Workshop Bench",
+    "text": "Workshop Bench\n\n\n\nWorktable and workshop setup concept."
+  },
+  {
+    "objectID": "experience/ashoka-makeathon-2026/index.html#van-interior",
+    "href": "experience/ashoka-makeathon-2026/index.html#van-interior",
+    "title": "Ashoka Makeathon 2026",
+    "section": "Van Interior",
+    "text": "Van Interior\n\n\n\nProposed interior layout for the mobile makerspace."
+  },
+  {
+    "objectID": "experience/ashoka-makeathon-2026/index.html#project-repository",
+    "href": "experience/ashoka-makeathon-2026/index.html#project-repository",
+    "title": "Ashoka Makeathon 2026",
+    "section": "Project Repository",
+    "text": "Project Repository\nView the Ashoka Makeathon project on GitHub."
+  },
+  {
+    "objectID": "experience/cansat-2026-27/index.html",
+    "href": "experience/cansat-2026-27/index.html",
+    "title": "CANSAT 2026-27",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "experience/cansat-2026-27/index.html#project-overview",
+    "href": "experience/cansat-2026-27/index.html#project-overview",
+    "title": "CANSAT 2026-27",
+    "section": "Project Overview",
+    "text": "Project Overview\nCanSat is an international aerospace engineering competition in which student teams design, build, and test a miniature satellite (CanSat) that simulates the functions of a real satellite within the dimensions of a soft-drink can.\nThe 2027 mission involves deploying a 2P PocketQube from the CanSat at 90% of its peak altitude, followed by autonomous descent at a target velocity of (10 ) m/s. The PocketQube must power up upon release, deploy two solar panels after a 5-second delay, and demonstrate successful deployment through onboard sensing and telemetry."
+  },
+  {
+    "objectID": "experience/cansat-2026-27/index.html#about-the-work-done-from-the-perspective-of-the-mechanical-subsystems-team",
+    "href": "experience/cansat-2026-27/index.html#about-the-work-done-from-the-perspective-of-the-mechanical-subsystems-team",
+    "title": "CANSAT 2026-27",
+    "section": "About the Work Done from the Perspective of the Mechanical Subsystems Team",
+    "text": "About the Work Done from the Perspective of the Mechanical Subsystems Team\nI was tasked with designing the PocketQube itself- the internal and external componenets along with the PocketQube’s parachute, solar panel and boom deployment mechanism while the rest of the mechanical team was involved with designing the boom and container contents.\n\n\n\nFigure 1: This was the first prototype which was 3D printed using PLA just to get an idea of the scale of the PocketQube.\n\n\nFigure 2: This shows the hinge mechanism for the PocketQube’s solar panels.\n\n\n\n\n\nFigure 3: This images showcases the rough idea for the placement of the electronics, solar panels and parachute.\n\n\nFigure 4 PocketQube external design with a backplate that would slide onto a rail in the container.\n\n\nFurther work will be updated here as the project progresses."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello! My name is Apurv Bhushan",
+    "section": "",
+    "text": "And welcome to my website. This is a record of the work I have devoted many hours and careful thought to, from projects to coursework.\n\n\n\n\nI am a third-year Robotics and Autonomous Systems major at Plaksha University in Mohali, India. I am especially interested in the mechanical side of robotics and flight, particularly autogyros, which are the focus of my passion project. Through my coursework, I have also developed an appreciation for simulating dynamical systems by numerically solving differential equations. I am keen to pursue this interest as I continue learning about robotics and flight. Outside academics, I play cricket for the university team and enjoy story-driven video games.\n\n\nCV · LinkedIn · GitHub"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hello! My name is Apurv Bhushan",
+    "section": "Experience",
+    "text": "Experience\n\n\nCANSAT 2026-27 As part of the Mechanical Subsystems team in Team Kalki, we were tasked with designing a 2P PocketQube Satellite and the container it will deploy from. Click here for more info.\nIntern Under Professor Andy Ruina and Professor Shashikant Pawar Got the opportunity to work under Professor Andy Ruina on Airfoil Aerodynamics and CFD simulations. Click here for more info.\nAshoka Makeathon 2026 As part of a 4-member team, we participated and placed 3rd in the Hardware Track in the RedBrickHacks Hackathon hosted by Ashoka University 2026. Click here for more info.\nPlaksha Makerspace Internship Got the opportunity to work in my University’s Makerspace during my first-year summer. Worked on building a variable voltage power supply and a motorized cyclorotor. Click here for more info."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Hello! My name is Apurv Bhushan",
+    "section": "Projects",
+    "text": "Projects\n\n\nILGC Project: Cyclorotor Autogyro As part of a multi-semester project-based learning course, ILGC (Innovation Lab & Grand Challenge), I am working on my passion project, the Cyclorotor Autogyro. The project explores using a fixed-pitch cyclorotor as the main lift-generating rotor on an autogyro aircraft. Click here for more info.\nOptimization Course Project As part of my 3rd semester Optimization course, my team was tasked with building an optimizer and testing it against other existing optimizers. Click here for more info."
+  },
+  {
+    "objectID": "index.html#coursework",
+    "href": "index.html#coursework",
+    "title": "Hello! My name is Apurv Bhushan",
+    "section": "Coursework",
+    "text": "Coursework\n\n\nDynamics and Simulation Master’s level course on solving DEs of dynamical systems using various methods. Offered by Professor Andy Ruina during my 3rd year (August 2026- December 2026). Click here for more info.\nRobot Motion Simulation and Optimization Course on solving DEs numerically, but more focused on optimization problems. Offered by Professor Andy Ruina during my 2nd year (January 2026- May 2026). Click here for more info."
+  },
+  {
+    "objectID": "index.html#side-quests-click-here-to-see-some-fun-stuff",
+    "href": "index.html#side-quests-click-here-to-see-some-fun-stuff",
+    "title": "Hello! My name is Apurv Bhushan",
+    "section": "Side Quests: Click here to see some fun stuff!",
+    "text": "Side Quests: Click here to see some fun stuff!"
+  },
+  {
+    "objectID": "experience/robotics-lab-internship/index.html",
+    "href": "experience/robotics-lab-internship/index.html",
+    "title": "Summer Internship 2026",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "experience/robotics-lab-internship/index.html#internship-overview",
+    "href": "experience/robotics-lab-internship/index.html#internship-overview",
+    "title": "Summer Internship 2026",
+    "section": "Internship Overview",
+    "text": "Internship Overview\nWill add later"
+  },
+  {
+    "objectID": "experience/robotics-lab-internship/index.html#the-sheldahl-and-klimas-dataset",
+    "href": "experience/robotics-lab-internship/index.html#the-sheldahl-and-klimas-dataset",
+    "title": "Summer Internship 2026",
+    "section": "The Sheldahl and Klimas Dataset",
+    "text": "The Sheldahl and Klimas Dataset\nSheldahl and Klimas (1981) report wind-tunnel measurements of symmetric NACA airfoils across angles of attack and Reynolds numbers. The digitized collection includes lift, drag, moment, and axial-force coefficients, along with lift-drag polars and increasing/decreasing angle-of-attack sweeps."
+  },
+  {
+    "objectID": "experience/robotics-lab-internship/index.html#digitization-process",
+    "href": "experience/robotics-lab-internship/index.html#digitization-process",
+    "title": "Summer Internship 2026",
+    "section": "Digitization Process",
+    "text": "Digitization Process\nI loaded the scanned plots into WebPlotDigitizer and selected a 2D XY plot. I calibrated the axes by marking four known reference points and entering their values; for example, the NACA 0015 full-range lift plot uses an angle-of-attack range of 0 to 180 degrees and a lift-coefficient range of -1.2 to 1.2.\nI then extracted each curve using manual point selection or color-based automatic extraction, checked the traced points against the plotted curves, and exported the results as CSV files. The included MATLAB scripts organize and plot the digitized series for comparison.\n\nProcess Screenshots\n\n\n\n\nStep 1: Load the source graph image into WebPlotDigitizer.\n\n\n\n\n\nStep 2: Choose a 2D XY axes type.\n\n\n\n\n\nStep 3: Mark the four reference points used to calibrate the axes.\n\n\n\n\n\nStep 4: Enter the known minimum and maximum values for each axis.\n\n\n\n\n\nStep 5: Check the calibration against known points on the graph.\n\n\n\n\n\nStep 6: Choose datasets for the variables being digitized.\n\n\n\n\n\nStep 7: Select points along the plotted data curves."
+  },
+  {
+    "objectID": "experience/robotics-lab-internship/index.html#data-index",
+    "href": "experience/robotics-lab-internship/index.html#data-index",
+    "title": "Summer Internship 2026",
+    "section": "Data Index",
+    "text": "Data Index\n\nBrowse the synthesized data for interactive plots organized by airfoil and Reynolds number.\nBrowse the experimental data for all digitized CSV files, full-range workbooks, and SVG plots."
+  },
+  {
+    "objectID": "experience/robotics-lab-internship/index.html#cfd-simulations-for-the-cyclorotor-autogyro",
+    "href": "experience/robotics-lab-internship/index.html#cfd-simulations-for-the-cyclorotor-autogyro",
+    "title": "Summer Internship 2026",
+    "section": "CFD Simulations for the Cyclorotor Autogyro",
+    "text": "CFD Simulations for the Cyclorotor Autogyro\nAfter completing the airfoil-data work, I moved on to CFD simulations of a flat plate for my Cyclorotor Autogyro project. The project explores whether a cyclorotor could provide lift for an autogyro aircraft, with a physical prototype as the longer-term goal.\nI would also like to credit Professor Shashikant Pawar for his help with the CFD simulations. He is also a mentor for my passion project.\nThe project log notes that flat plates can be a more suitable starting point than symmetrical airfoils at low Reynolds numbers. I began with flat-plate simulations to study the airflow and build a foundation for the project’s later design and physical experiments.\nHere is the link to the CFD simulation work- how I started off and how I did it: here."
+  },
+  {
+    "objectID": "experience/makerspace-internship/index.html",
+    "href": "experience/makerspace-internship/index.html",
+    "title": "Plaksha Makerspace Internship",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "experience/makerspace-internship/index.html#internship-overview",
+    "href": "experience/makerspace-internship/index.html#internship-overview",
+    "title": "Plaksha Makerspace Internship",
+    "section": "Internship Overview",
+    "text": "Internship Overview\nDuring my first-year summer, I worked in Plaksha University’s Makerspace on two projects. I spent a few days building a variable voltage power supply using a 220 V-to-30 V transformer and a buck converter. Most of my internship, about 95%, went toward designing and building a motorized cyclorotor."
+  },
+  {
+    "objectID": "experience/makerspace-internship/index.html#cyclorotor-project",
+    "href": "experience/makerspace-internship/index.html#cyclorotor-project",
+    "title": "Plaksha Makerspace Internship",
+    "section": "Cyclorotor Project",
+    "text": "Cyclorotor Project\nA cyclorotor is a rotor whose blades revolve around a central axis while changing their pitch during each rotation. This lets the rotor generate and redirect thrust, making it possible to control the direction of the force without turning the whole assembly. My project involved designing and building a working cyclorotor assembly.\n\n\n\nPrototype 1: the first physical cyclorotor prototype.\n\n\n\n\n\nAirfoil rib structure used in the rotor assembly.\n\n\n\n\n\nCAD model of the cyclorotor assembly.\n\n\n\n\n\nPrototype 2: a later physical iteration of the cyclorotor."
+  },
+  {
+    "objectID": "experience/makerspace-internship/index.html#what-i-learned",
+    "href": "experience/makerspace-internship/index.html#what-i-learned",
+    "title": "Plaksha Makerspace Internship",
+    "section": "What I Learned",
+    "text": "What I Learned\nThis was my first substantial mechanical design project, and it taught me how much work remains between a computer model and a reliable physical assembly. I encountered unwanted friction in joints, challenges fitting and assembling components, and the need to think carefully about clearances and fastening methods. My initial fastening designs were not as refined as they needed to be, but working through those issues gave me valuable practical experience in mechanical design, prototyping, and iteration."
+  },
+  {
+    "objectID": "projects/optimization-course-project/index.html",
+    "href": "projects/optimization-course-project/index.html",
+    "title": "Optimization Course Project",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "projects/optimization-course-project/index.html#project-overview",
+    "href": "projects/optimization-course-project/index.html#project-overview",
+    "title": "Optimization Course Project",
+    "section": "Project Overview",
+    "text": "Project Overview\nFor my third-semester Optimization course, my team developed AdaGamma, an extension of Adam that uses gradient skewness and kurtosis to modulate parameter updates. We tested it against established optimizers on quadratic functions, the Rosenbrock function, and MNIST digit classification."
+  },
+  {
+    "objectID": "projects/optimization-course-project/index.html#project-log",
+    "href": "projects/optimization-course-project/index.html#project-log",
+    "title": "Optimization Course Project",
+    "section": "Project Log",
+    "text": "Project Log\nScroll through the full project log below for the algorithm, implementation, experiments, results, and limitations.\n\n\nOpen or download the full project log."
+  },
+  {
+    "objectID": "projects/optimization-course-project/index.html#what-i-learned",
+    "href": "projects/optimization-course-project/index.html#what-i-learned",
+    "title": "Optimization Course Project",
+    "section": "What I Learned",
+    "text": "What I Learned\n\nI developed a deeper understanding of how the first four gradient moments relate to an optimizer’s update, and how skewness and kurtosis can be used to adjust it.\nI worked on the mathematical design, translating the update rule into an implementation, and tuning hyperparameters across benchmark problems.\nI learned that an optimizer’s performance depends on the task: AdaGamma converged faster on the tested quadratic and Rosenbrock functions, but on MNIST it achieved accuracy similar to Adam while taking longer to train. This reinforced the importance of evaluating optimization methods across different kinds of problems."
+  },
+  {
+    "objectID": "coursework/robot-motion-simulation-and-optimization/index.html",
+    "href": "coursework/robot-motion-simulation-and-optimization/index.html",
+    "title": "Robot Motion Simulation and Optimization",
+    "section": "",
+    "text": "←Apurv Bhushan"
+  },
+  {
+    "objectID": "coursework/robot-motion-simulation-and-optimization/index.html#course-overview",
+    "href": "coursework/robot-motion-simulation-and-optimization/index.html#course-overview",
+    "title": "Robot Motion Simulation and Optimization",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course, a Program Elective for the Robotics & Autonomous Systems Major, is focused on numerically solving differential equations, with particular emphasis on optimization problems. It was offered by Professor Andy Ruina during my second year (January-May 2026)."
+  },
+  {
+    "objectID": "coursework/robot-motion-simulation-and-optimization/index.html#homework-portfolio",
+    "href": "coursework/robot-motion-simulation-and-optimization/index.html#homework-portfolio",
+    "title": "Robot Motion Simulation and Optimization",
+    "section": "Homework Portfolio",
+    "text": "Homework Portfolio\nThe PDF below contains the homework questions and work I completed for the course.\n\n\nOpen or download the homework PDF."
+  },
+  {
+    "objectID": "coursework/robot-motion-simulation-and-optimization/index.html#homework-questions-and-solutions",
+    "href": "coursework/robot-motion-simulation-and-optimization/index.html#homework-questions-and-solutions",
+    "title": "Robot Motion Simulation and Optimization",
+    "section": "Homework Questions and Solutions",
+    "text": "Homework Questions and Solutions\nThe GitHub repository for the original homework questions and my solutions will be linked here once it is ready."
+  }
+]
