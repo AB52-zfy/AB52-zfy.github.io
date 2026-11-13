@@ -1,8 +1,11 @@
 # Apurv Bhushan's Portfolio
 
-Personal portfolio built with [Quarto](https://quarto.org). The site is published
-to GitHub Pages by `.github/workflows/publish.yml` whenever changes are pushed
-to `main`.
+Personal portfolio built with [Quarto](https://quarto.org). Whenever changes
+are pushed to `main`, `.github/workflows/publish.yml` renders the site and
+publishes the generated files to the `gh-pages` branch.
+
+GitHub Pages should be configured to deploy from the `gh-pages` branch and
+`/(root)` folder.
 
 ## Preview locally
 
@@ -16,7 +19,8 @@ To build the site once without starting a preview server:
 quarto render
 ```
 
-The generated site is written to `_site/`, which is not committed.
+The generated site is written to `_site/` locally. The workflow publishes it
+to `gh-pages`; generated files are not committed to `main`.
 
 ## Site content
 

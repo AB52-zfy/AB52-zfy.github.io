@@ -5,11 +5,9 @@ on:
     branches: [main]
   workflow_dispatch:
 
-# Allow the workflow to publish to GitHub Pages.
+# Allow the workflow to publish the rendered site to the gh-pages branch.
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 # Never run two deploys at once; don't cancel one midway.
 concurrency:
@@ -19,9 +17,6 @@ concurrency:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -32,11 +27,16 @@ jobs:
       - name: Render site
         run: quarto render
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish to gh-pages branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          touch _site/.nojekyll
+          git -C _site init --initial-branch=gh-pages
+          git -C _site config user.name "github-actions[bot]"
+          git -C _site config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C _site add --all
+          git -C _site commit -m "Deploy ${GITHUB_SHA}"
+          git -C _site remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          auth_header="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 --wrap=0)"
+          git -C _site -c http.extraheader="AUTHORIZATION: basic ${auth_header}" push --force origin gh-pages
