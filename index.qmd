@@ -31,7 +31,7 @@ I am a third-year Robotics and Autonomous Systems major at Plaksha University in
 - **CANSAT 2026-27**<br>
   As part of the Mechanical Subsystems team in Team Kalki, we were tasked with designing a 2P PocketQube Satellite and the container it will deploy from.<br>
   Click [here](/experience/cansat-2026-27/) for more info.
-- **Intern Under [Professor Andy Ruina](http://ruina.tam.cornell.edu/)**<br>
+- **Intern Under [Professor Andy Ruina](http://ruina.tam.cornell.edu/) and Professor Shashikant**<br>
   Got the opportunity to work under [Professor Andy Ruina](http://ruina.tam.cornell.edu/) on Airfoil Aerodynamics and CFD simulations.<br>
   Click [here](/experience/robotics-lab-internship/) for more info.
 - **Ashoka Makeathon 2026**<br>
