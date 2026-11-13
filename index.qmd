@@ -64,5 +64,6 @@ I am a third-year Robotics and Autonomous Systems major at Plaksha University in
   Click [here](/coursework/robot-motion-simulation-and-optimization/) for more info.
 :::
 
-## Some Stuff on the Side: Having Fun!
-Click [here](/fun/) to see some fun stuff.
+::: {.side-quest-callout}
+## Side Quests: Click [here](/fun/) to see some fun stuff!
+:::

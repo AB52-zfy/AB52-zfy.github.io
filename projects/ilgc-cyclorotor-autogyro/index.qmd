@@ -1,11 +1,10 @@
 ---
 title: "ILGC Project: Cyclorotor Autogyro"
-description: "A multi-semester project exploring the cyclorotor-autogyro concept through research, simulation, and physical prototyping."
 ---
 
 ## Project Overview and Research Basis
 
-As part of ILGC (Innovation Lab & Grand Challenge), I am investigating whether a cyclorotor can serve as the lift-generating rotor on an autogyro aircraft. In a cyclorotor, blades rotate around a central axis while changing pitch cyclically; adjusting the pitch offset can redirect the rotor's thrust.
+ In a motorized cyclorotor, blades rotate around a central axis while changing pitch cyclically; adjusting the pitch offset can redirect the rotor's thrust whereas a fixed-pitch cyclorotor produces thrust in a single direction. The project explores using a fixed-pitch cyclorotor as the main lift-generating rotor on an autogyro aircraft, with the goal of developing a physical prototype and investigating the concept through design, simulation, and experiments.
 
 The idea is motivated by the research paper *Energetic Design of a New Autogyro Aircraft with Cyclorotors with Possibility of Energy Harvesting*. It proposes an aircraft with two cylindrical cyclorotor wind turbines mounted on either side of the fuselage, and estimates aerodynamic and vehicle quantities mathematically. As described in my project log, the concept had not yet been demonstrated with a physical aircraft. My aim is to develop a physical cyclorotor-autogyro prototype and investigate the concept through design, simulation, and experiments.
 

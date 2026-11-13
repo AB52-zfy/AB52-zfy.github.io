@@ -1,6 +1,5 @@
 ---
 title: "Dynamics and Simulation"
-description: "Master's level course on solving differential equations of dynamical systems using various methods."
 format:
   html:
     include-before-body: ../../_partials/back-link.html
@@ -8,7 +7,7 @@ format:
 
 ## Course Overview
 
-Master's-level course on solving differential equations for dynamical systems using a range of methods. Offered by [Professor Andy Ruina](http://ruina.tam.cornell.edu/) during my third year (August-December 2026).
+Dynamics and Simulation is a Program Elective Course for the Robotics & Autonomous Systems Major on solving differential equations for dynamical systems using a range of methods. Offered by [Professor Andy Ruina](http://ruina.tam.cornell.edu/) during my third year (August-December 2026).
 
 ## Homework Log
 

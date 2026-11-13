@@ -1,6 +1,5 @@
 ---
 title: "CANSAT 2026-27"
-description: "Designing a 2P PocketQube Satellite and its deployment container with Team Kalki's Mechanical Subsystems team."
 ---
 
 ## Project Overview

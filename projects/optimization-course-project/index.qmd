@@ -1,6 +1,5 @@
 ---
 title: "Optimization Course Project"
-description: "Developing and evaluating AdaGamma, an Adam extension that uses higher-order gradient moments."
 ---
 
 ## Project Overview

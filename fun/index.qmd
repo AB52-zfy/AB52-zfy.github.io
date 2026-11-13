@@ -1,17 +1,12 @@
 ---
 title: "Having Fun!"
-description: "Side projects, RC aircraft, and small experiments."
+description: "This page is dedicated to fun projects, experiments, and hobbies that I have pursued outside of my academic work."
 ---
 
-## Side Quests
-
-Not everything I build belongs to a course or a formal project. This page is for the things I make and try out of curiosity.
-
-## RC Planes
 
 ### Gallery
 
-My friend Suyash Prakash and I assembled three RC planes as a hobby: an F-22 Raptor, a trainer aircraft, and a 3D aerobatic plane.
+My friend Suyash Prakash (A phenomenal pilot and frankly the only person I trust behind an RC) and I built three RC planes as a hobby: an F-22 Raptor which I called the "Barracuda", a trainer aircraft which was named "Little Wing", and a 3D aerobatic plane which Suyash didn't name :(. Check out his stuff-> 
 
 <figure>
 <img src="Rc%20planes/all_3_planes.jpg" alt="The F-22 Raptor, trainer, and 3D aerobatic RC planes" class="img-fluid">
@@ -20,64 +15,62 @@ My friend Suyash Prakash and I assembled three RC planes as a hobby: an F-22 Rap
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_crash1_1st.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>The Barracuda's head-on collision with the light pole.</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_flying_2nd.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>Barracuda in flight.</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_firstcatch_3rd.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>My Second favorite thing about RC planes, catching them!</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_crash2_4th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>Another head-on collision!</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_flying_5th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>Flying the F22</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_catch_6th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>Another Catch!</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_Crash_7th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>This was the very first flight of little wing which crashed right into a tree!</figcaption>
 </figure>
 
 <figure class="rc-gallery-crash">
 <img src="Rc%20planes/trainer_crash.jpg" alt="The trainer RC plane after its crash" class="img-fluid">
-<figcaption>Trainer aircraft after the seventh-flight crash.</figcaption>
+<figcaption>Smoooth landing :)</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_flying_8th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>Little Wing in action.</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_flying_9th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>In earlier videos, the trainer aircraft's wings were bent, but upon flatenning them, it flew much better.</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/Trainer_flying_10th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>Some more flying.</figcaption>
 </figure>
 
 <figure class="rc-gallery-item">
 <video controls preload="metadata" playsinline><source src="Rc%20planes/web/F22_catch_another_11th.mp4" type="video/mp4"></video>
-<figcaption>Caption: Add caption here.</figcaption>
+<figcaption>This was my favorite catch, I thought I would nearly cut my hand off cause it got real close to the prop.</figcaption>
 </figure>
 
-## Small Experiments
-
-Small tests, workshop experiments, and other interesting diversions will find a home here as they happen.
+## Other Stuff- Will be updated when 'other stuff' happens :)

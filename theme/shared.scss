@@ -54,7 +54,7 @@ main {
 
   figcaption {
     color: $s-muted;
-    font-size: 0.85em;
+    font-size: 1.1em;
     font-style: italic;
     margin-top: 0.4rem;
   }
@@ -449,4 +449,20 @@ a.project-item-icon {
   > :last-child  { margin-bottom: 0; }
 
   h2 { border-bottom: none; margin-top: 0; }
+}
+
+.side-quest-callout {
+  background-color: $s-badge-bg;
+  border: 1px solid $s-border;
+  border-left: 5px solid $link-color;
+  border-radius: $border-radius;
+  padding: 1rem 1.3rem;
+  margin: 2rem 0;
+  box-shadow: 0 3px 12px $s-card-shadow;
+
+  h2 {
+    border-bottom: none;
+    margin: 0;
+    padding: 0;
+  }
 }

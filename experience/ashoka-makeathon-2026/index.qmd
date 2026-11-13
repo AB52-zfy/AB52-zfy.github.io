@@ -1,11 +1,6 @@
 ---
 title: "Ashoka Makeathon 2026"
-description: "Makerspace on Wheels: a mobile, low-cost hands-on workshop for government-school students."
 ---
-
-## RedBrickHacks Hardware Track
-
-At the 2026 RedBrickHacks Hackathon hosted by Ashoka University, my four-person team competed in the Hardware Track and placed third.
 
 ## Makerspace on Wheels
 
